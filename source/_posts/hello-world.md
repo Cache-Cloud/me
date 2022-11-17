@@ -5,6 +5,6 @@ cover: /images/hello-world.md/hello.jpg
 ---
 
 
-![cover](images/hello-world.md/hello.jpg"cover")
+![cover](images/hello-world.md/hello.jpg)
 
 世界你好，看到这页的伙伴，贵安。
