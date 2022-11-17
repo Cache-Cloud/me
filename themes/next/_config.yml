@@ -279,7 +279,7 @@ reward:
 # Usage: `Key: permalink || icon` (Font Awesome)
 follow_me:
   #Twitter: https://twitter.com/username || fab fa-twitter
-  Telegram: https://t.me/+guW2QBUKGeIzNGU1 || fab Qiao-telegram
+  Telegram: https://t.me/+guW2QBUKGeIzNGU1 || fab fa-telegram
   #WeChat: /images/wechat_channel.png || fab fa-weixin
   #RSS: /atom.xml || fa fa-rss
 
