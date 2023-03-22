@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "86f620edc070525a",
+        "id": "4a4f2d20f111e245",
         "type": "tabs",
         "children": [
           {
-            "id": "d39ac9baa1a055e8",
+            "id": "c813056daa0756bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/Tesla-M40-try.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/Tesla-M40-try.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/Tesla-M40-try.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "source/_posts/Tesla-M40-try.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -138,17 +130,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "canvas:Create new canvas": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "d39ac9baa1a055e8",
+  "active": "c813056daa0756bc",
   "lastOpenFiles": [
+    "images/me.png.md",
+    "source/about/index.md",
     "source/_posts/Tesla-M40-try.md",
+    "images",
     "source/_posts/hello-world.md",
     "source/_posts/images/hello-world.md/hello.jpg",
     "images/hello-world.md/hello.jpg.md"
