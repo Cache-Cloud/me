@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4a4f2d20f111e245",
+        "id": "c09879b1eaf8f178",
         "type": "tabs",
         "children": [
           {
-            "id": "c813056daa0756bc",
+            "id": "1a3b043438869da9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/ham-0.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -60,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "0677320adaea211b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "source/_posts/ham-0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "source/_posts/ham-0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "source/_posts/ham-0.md"
+              }
             }
           }
         ]
@@ -138,14 +154,52 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c813056daa0756bc",
+  "active": "1a3b043438869da9",
   "lastOpenFiles": [
-    "images/me.png.md",
-    "source/about/index.md",
-    "source/_posts/Tesla-M40-try.md",
-    "images",
     "source/_posts/hello-world.md",
-    "source/_posts/images/hello-world.md/hello.jpg",
-    "images/hello-world.md/hello.jpg.md"
+    "source/_posts/Dunarvend.md",
+    "source/_posts/ham-0.md",
+    "source/_posts/ham-0/low_78036181_p0.jpg",
+    "source/_posts/ham-0/78036181_p0.jpg",
+    "source/_posts/images/47930682_p0.jpg",
+    "source/_posts/images/47974276_p0.jpg",
+    "source/_posts/Tesla-M40-try.md",
+    "db.json",
+    "source/wxd.pdf",
+    "source/2.pdf",
+    "source/1.pdf",
+    "images/me.png",
+    "images/47930682_p0.jpg",
+    "images/favicon128x128.ico",
+    "images/favicon16x16.ico",
+    "images/favicon.ico",
+    "images/47974276_p0.jpg",
+    "images/favicon256x256.ico",
+    "images/favicon32x32.ico",
+    "images/hello-world.md",
+    "images",
+    "images/me.png.md",
+    "images/hello-world.md/hello.jpg.md",
+    "source/images/hello-world.md/hello.jpg",
+    "source/images/hello-world.md/hello..jpg",
+    "source/images/47930682_p0.jpg",
+    "未命名.md",
+    "node_modules/async/README.md",
+    "node_modules/async/CHANGELOG.md",
+    "node_modules/basic-auth/README.md",
+    "node_modules/basic-auth/HISTORY.md",
+    "node_modules/argparse/README.md",
+    "node_modules/argparse/CHANGELOG.md",
+    "node_modules/acorn/README.md",
+    "node_modules/acorn/CHANGELOG.md",
+    "node_modules/acorn-walk/README.md",
+    "node_modules/@tootallnate/once/README.md",
+    "node_modules/acorn-walk/CHANGELOG.md",
+    "node_modules/a-sync-waterfall/README.md",
+    "node_modules/abab/README.md",
+    "node_modules/abab/LICENSE.md",
+    "node_modules/abbrev/README.md",
+    "node_modules/agent-base/node_modules/debug/README.md",
+    "node_modules/accepts/README.md"
   ]
 }
