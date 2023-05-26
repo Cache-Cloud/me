@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c09879b1eaf8f178",
+        "id": "eb6faf2a1327e348",
         "type": "tabs",
         "children": [
           {
-            "id": "1a3b043438869da9",
+            "id": "950c66b7724db49d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/ham-0.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/ham-0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/ham-0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "source/_posts/ham-0.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,16 +146,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1a3b043438869da9",
+  "active": "950c66b7724db49d",
   "lastOpenFiles": [
+    "source/about/index.md",
+    "source/_posts/Tesla-M40-try.md",
+    "source/_posts/ham-0.md",
     "source/_posts/hello-world.md",
     "source/_posts/Dunarvend.md",
-    "source/_posts/ham-0.md",
     "source/_posts/ham-0/low_78036181_p0.jpg",
     "source/_posts/ham-0/78036181_p0.jpg",
     "source/_posts/images/47930682_p0.jpg",
     "source/_posts/images/47974276_p0.jpg",
-    "source/_posts/Tesla-M40-try.md",
     "db.json",
     "source/wxd.pdf",
     "source/2.pdf",
