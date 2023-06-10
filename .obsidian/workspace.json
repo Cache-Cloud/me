@@ -11,8 +11,12 @@
             "id": "950c66b7724db49d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "source/tags/index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -165,11 +169,12 @@
   },
   "active": "1ff1020648c01278",
   "lastOpenFiles": [
+    "source/tags/index.md",
+    "source/_posts/飞向欧罗巴.md",
     "source/_posts/飞向欧罗巴/Screenshot_20230610_202335.png",
     "source/_posts/飞向欧罗巴/Screenshot_20230610_200842.png",
     "source/_posts/飞向欧罗巴/王宁_Kutina.png",
     "source/_posts/Dunarvend.md",
-    "source/_posts/飞向欧罗巴.md",
     "source/_posts/ham-0.md",
     "source/_posts/hello-world.md",
     "source/_posts/Tesla-M40-try.md",
@@ -194,7 +199,6 @@
     "images",
     "images/me.png.md",
     "images/hello-world.md/hello.jpg.md",
-    "source/images/hello-world.md/hello.jpg",
     "未命名.md",
     "node_modules/async/README.md",
     "node_modules/async/CHANGELOG.md",
