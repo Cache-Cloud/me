@@ -32,7 +32,7 @@ date: 2022-11-17 22:57:37
 ## 联系我
 
 邮箱：wang#hypixel.live（请把#换成@）
-PGP用户编号:	Stanley (STAN Cloud&amp;Kutina) <wang#kutina.cn>
+PGP用户编号:	Stanley (Stanley (STAN Cloud&Kutina) <wang@kutina.cn>) <wang#kutina.cn>
 PGP有效期自:	2023/8/17 下午12:00
 PGP文件系统:	4,096 位 RSA
 PGP指纹:	D3CE46FC53061DADC111CE488368EE622EC1E152
