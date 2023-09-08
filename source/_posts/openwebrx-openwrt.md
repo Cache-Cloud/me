@@ -15,7 +15,7 @@ tags: ham
 
 # 需要什么
 1.OpenWebRX兼容的SDR设备，笔者使用的是RSP1
-* LimeSDR devices下表列出了当前OpenWebRX支持的所有设备
+* 下表列出了当前OpenWebRX支持的所有设备
 	* notes列含有关设备、其设置或示例配置（如果有）的其他信息的链接
 	* ✔️ 提供驱动程序，设备应该可以立即工作
 	* ✏️不包含在默认配置中，需要编辑配置
