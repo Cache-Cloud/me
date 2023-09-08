@@ -111,3 +111,6 @@ SDR device settings便是我们要找的对象。
 
 * 点开我们看到有几个预设的设备配置，如果你的SDR设备是预设列表中的可以直接用，没有的话就要Add New Device...
 ![Device](Screenshot_20230908_160949.png)
+
+# 公网访问
+咕咕咕～～
