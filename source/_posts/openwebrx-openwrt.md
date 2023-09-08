@@ -15,7 +15,7 @@ tags: ham
 
 # 需要什么
 1.OpenWebRX兼容的SDR设备，笔者使用的是RSP1
-![[Screenshot_20230908_145123.png]]
+![兼容设备列表](Screenshot_20230908_145123.png)
 2.接收天线及馈线，这个看你的需求和设备实际购买。
 3.安装有Docker和带有USB2.0及以上接口的主机，本文中笔者采用的是树梅派4装有OpenWRT系统。
 # 安装SDR
@@ -24,7 +24,7 @@ tags: ham
 lsusb
 ```
 如果连接没问题的话，结果差不多应该是这样会多出来一条我们需要记下来红框内的数字在我的设备上他是001 004，那么在系统中他对应的位置就是/dev/bus/usb/001/004。
-![[Screenshot_20230908_151546.png]]
+![lsusb](Screenshot_20230908_151546.png)
 2.创建一个名为docker-compose.yml的文件，将以下内容填入。
   （建议直接在终端中使用nano或者vi）
 ```
@@ -45,15 +45,15 @@ services:
     #缓存，建议设置到RAM DISK
       - /tmp/openwebrx
 ```
-![[Screenshot_20230908_154025.png]]
+![docker-compose.yml](Screenshot_20230908_154025.png)
 3.打开终端在docker-compose.yml所在目录执行
 ```
 docker-compose up -d
 ```
-![[Screenshot_20230908_154127.png]]
+![up -d](Screenshot_20230908_154127.png)
 这样我们的OpenWebRX就启动了。
 3.打开浏览器输入主机IP及你设置的端口号，笔者的是192.168.1.1:8073
-![[Screenshot_20230908_155034.png]]
+![Web](Screenshot_20230908_155034.png)
 如果你看到了如上界面那么代表这你已经成功部署了OpenWebRX，点击三角形播放键就能听到沙沙声音（如果提上没有有效设备可能是你使用的SDR设备预设配置中并没有包含参考[# 配置SDR](# 配置SDR)），在右下角有波段切换和解调器切换按键。第一次安装波段应该是只有20m,30m,40m,80m,48m。我们可以通过右上方Settings来自行添加。进入设置面板需要用户名与密码这个需要自己设定并没有默认的。
 # 添加用户
 源自官方[Wiki](https://github.com/jketterl/openwebrx/wiki/User-Management)
@@ -69,13 +69,13 @@ docker container ls
 ```
 docker exec -it 55519b7a8f64 python3 /opt/openwebrx/openwebrx.py admin adduser kutina
 ```
-![[Screenshot_20230908_160439.png]]
+![ls](Screenshot_20230908_160439.png)
 执行后他会要求你输入两边密码，密码不会回显无需惊慌输入完成回车既可创建完成。
 
 # 配置SDR
 下面我们来到Settings，输入刚才创建账户完成登录
-![[Screenshot_20230908_160642.png]]
+![setting](Screenshot_20230908_160642.png)
 SDR device settings便是我们要找的对象。
 
 点开我们看到有几个预设的设备配置，如果你的SDR设备是预设列表中的可以直接用，没有的话就要Add New Device...
-![[Screenshot_20230908_160949.png]]
+![Device](Screenshot_20230908_160949.png)
