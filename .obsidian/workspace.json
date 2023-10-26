@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "eb6faf2a1327e348",
+        "id": "1ab4120d955f9369",
         "type": "tabs",
         "children": [
           {
-            "id": "950c66b7724db49d",
+            "id": "37606b66d209df13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/openwebrx-openwrt.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/openwebrx-openwrt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/openwebrx-openwrt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "source/_posts/openwebrx-openwrt.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,13 +146,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "950c66b7724db49d",
+  "active": "37606b66d209df13",
   "lastOpenFiles": [
+    "source/_posts/openwebrx-openwrt.md",
+    "source/_posts/joke.md",
+    "source/_posts/hello-world.md",
     "source/_posts/ham-0.md",
     "source/_posts/openwebrx-openwrt/Screenshot_20230908_145123.png",
     "source/_posts/飞向欧罗巴.md",
     "source/_posts/openwebrx-openwrt/Screenshot_20230908_154025.png",
-    "source/_posts/openwebrx-openwrt.md",
     "source/_posts/openwebrx-openwrt/Screenshot_20230908_160949.png",
     "source/_posts/openwebrx-openwrt/Screenshot_20230908_160642.png",
     "source/_posts/openwebrx-openwrt/Screenshot_20230908_160922.png",
@@ -168,7 +162,6 @@
     "source/_posts/openwebrx-openwrt/Screenshot_20230908_160010.png",
     "source/_posts/openwebrx-openwrt/Screenshot_20230908_155034.png",
     "source/_posts/openwebrx-openwrt/Screenshot_20230908_154127.png",
-    "source/_posts/hello-world.md",
     "source/_posts/openwebrx-openwrt/Screenshot_20230908_151546.png",
     "source/_posts/Tesla-M40-try.md",
     "source/tags/index.md",
