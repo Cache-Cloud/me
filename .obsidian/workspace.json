@@ -11,8 +11,12 @@
             "id": "f906ad9d4e405879",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/拾枝杂谈.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "source/_posts/拾枝杂谈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "source/_posts/拾枝杂谈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "source/_posts/拾枝杂谈.md"
+              }
             }
           }
         ]
@@ -148,12 +156,15 @@
   },
   "active": "f906ad9d4e405879",
   "lastOpenFiles": [
-    "source/_posts/joke.md",
-    "source/_posts/openwebrx-openwrt.md",
-    "source/_posts/hello-world.md",
-    "source/_posts/ham-0.md",
-    "source/_posts/openwebrx-openwrt/Screenshot_20230908_145123.png",
     "source/_posts/飞向欧罗巴.md",
+    "source/_posts/拾枝杂谈.md",
+    "source/_posts/openwebrx-openwrt.md",
+    "source/_posts/Tesla-M40-try.md",
+    "source/_posts/Dunarvend.md",
+    "source/_posts/ham-0.md",
+    "source/_posts/joke.md",
+    "source/_posts/hello-world.md",
+    "source/_posts/openwebrx-openwrt/Screenshot_20230908_145123.png",
     "source/_posts/openwebrx-openwrt/Screenshot_20230908_154025.png",
     "source/_posts/openwebrx-openwrt/Screenshot_20230908_160949.png",
     "source/_posts/openwebrx-openwrt/Screenshot_20230908_160642.png",
@@ -163,9 +174,7 @@
     "source/_posts/openwebrx-openwrt/Screenshot_20230908_155034.png",
     "source/_posts/openwebrx-openwrt/Screenshot_20230908_154127.png",
     "source/_posts/openwebrx-openwrt/Screenshot_20230908_151546.png",
-    "source/_posts/Tesla-M40-try.md",
     "source/tags/index.md",
-    "source/_posts/Dunarvend.md",
     "source/about/index.md",
     "db.json",
     "source/wxd.pdf",
@@ -192,7 +201,6 @@
     "node_modules/acorn-walk/README.md",
     "node_modules/@tootallnate/once/README.md",
     "node_modules/acorn-walk/CHANGELOG.md",
-    "node_modules/a-sync-waterfall/README.md",
-    "node_modules/abab/README.md"
+    "node_modules/a-sync-waterfall/README.md"
   ]
 }
