@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/拾枝杂谈.md",
+                "file": "source/_posts/note.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/拾枝杂谈.md",
+                "file": "source/_posts/note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/拾枝杂谈.md",
+                "file": "source/_posts/note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/拾枝杂谈.md"
+                "file": "source/_posts/note.md"
               }
             }
           }
@@ -156,9 +156,9 @@
   },
   "active": "f906ad9d4e405879",
   "lastOpenFiles": [
-    "source/_posts/飞向欧罗巴.md",
-    "source/_posts/拾枝杂谈.md",
     "source/_posts/openwebrx-openwrt.md",
+    "source/_posts/note.md",
+    "source/_posts/飞向欧罗巴.md",
     "source/_posts/Tesla-M40-try.md",
     "source/_posts/Dunarvend.md",
     "source/_posts/ham-0.md",
