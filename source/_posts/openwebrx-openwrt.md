@@ -1,8 +1,9 @@
 ---
 title: OpenWRT(Docker)部署OpenWebRX指南
 date: 2023-09-08 14:19:16
-updated:
-tags: ham
+updated: 2023-09-08 14:19:16
+tags:
+  - ham
 ---
 ![cover](images/hello-world.md/hello.jpg)
 

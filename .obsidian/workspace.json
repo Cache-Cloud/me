@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d86ce63e4165c482",
+        "id": "1ea95f382763ce5d",
         "type": "tabs",
         "children": [
           {
-            "id": "f906ad9d4e405879",
+            "id": "f3049fcf8a5d1b7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/note.md",
+                "file": "source/_posts/joke.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/note.md",
+                "file": "source/_posts/joke.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/note.md",
+                "file": "source/_posts/joke.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/note.md"
+                "file": "source/_posts/joke.md"
               }
             }
           }
@@ -154,26 +154,31 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f906ad9d4e405879",
+  "active": "674f365375e9db1f",
   "lastOpenFiles": [
-    "source/_posts/openwebrx-openwrt.md",
+    "source/images/low_78036181_p0.jpg",
+    "source/_posts/123.md",
+    "source/_posts/ham-0.md",
+    "source/_posts/hello-world.md",
+    "source/_posts/joke.md",
     "source/_posts/note.md",
+    "source/_posts/openwebrx-openwrt.md",
+    "source/images/69779822_p3.jpg",
+    "source/_posts/images/low_78036181_p0.jpg",
+    "source/images/69779822_p4.jpg",
+    "source/images/me.png",
+    "source/images/47974276_p0.jpg",
+    "source/images/47930682_p0.jpg",
+    "scaffolds/post.md",
+    "scaffolds/page.md",
+    "scaffolds/draft.md",
+    "source/_posts/Dunarvend.md",
     "source/_posts/飞向欧罗巴.md",
     "source/_posts/Tesla-M40-try.md",
-    "source/_posts/Dunarvend.md",
-    "source/_posts/ham-0.md",
-    "source/_posts/joke.md",
-    "source/_posts/hello-world.md",
     "source/_posts/openwebrx-openwrt/Screenshot_20230908_145123.png",
     "source/_posts/openwebrx-openwrt/Screenshot_20230908_154025.png",
     "source/_posts/openwebrx-openwrt/Screenshot_20230908_160949.png",
     "source/_posts/openwebrx-openwrt/Screenshot_20230908_160642.png",
-    "source/_posts/openwebrx-openwrt/Screenshot_20230908_160922.png",
-    "source/_posts/openwebrx-openwrt/Screenshot_20230908_160439.png",
-    "source/_posts/openwebrx-openwrt/Screenshot_20230908_160010.png",
-    "source/_posts/openwebrx-openwrt/Screenshot_20230908_155034.png",
-    "source/_posts/openwebrx-openwrt/Screenshot_20230908_154127.png",
-    "source/_posts/openwebrx-openwrt/Screenshot_20230908_151546.png",
     "source/tags/index.md",
     "source/about/index.md",
     "db.json",
@@ -196,11 +201,6 @@
     "node_modules/basic-auth/HISTORY.md",
     "node_modules/argparse/README.md",
     "node_modules/argparse/CHANGELOG.md",
-    "node_modules/acorn/README.md",
-    "node_modules/acorn/CHANGELOG.md",
-    "node_modules/acorn-walk/README.md",
-    "node_modules/@tootallnate/once/README.md",
-    "node_modules/acorn-walk/CHANGELOG.md",
-    "node_modules/a-sync-waterfall/README.md"
+    "node_modules/acorn/README.md"
   ]
 }

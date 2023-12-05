@@ -1,8 +1,9 @@
 ---
 title: 永不消逝的电波
 date: 2023-05-23 17:05:11
-updated:
-tags: ham
+updated: 2023-05-23 17:05:11
+tags:
+  - ham
 ---
 ![cover](low_78036181_p0.jpg)
 
