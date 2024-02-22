@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/joke.md",
+                "file": "source/_posts/常用软件备忘录.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/joke.md",
+                "file": "source/_posts/常用软件备忘录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/joke.md",
+                "file": "source/_posts/常用软件备忘录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/joke.md"
+                "file": "source/_posts/常用软件备忘录.md"
               }
             }
           }
@@ -154,13 +154,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "674f365375e9db1f",
+  "active": "f3049fcf8a5d1b7d",
   "lastOpenFiles": [
+    "source/_posts/joke.md",
     "source/images/low_78036181_p0.jpg",
     "source/_posts/123.md",
     "source/_posts/ham-0.md",
     "source/_posts/hello-world.md",
-    "source/_posts/joke.md",
     "source/_posts/note.md",
     "source/_posts/openwebrx-openwrt.md",
     "source/images/69779822_p3.jpg",
@@ -178,7 +178,6 @@
     "source/_posts/openwebrx-openwrt/Screenshot_20230908_145123.png",
     "source/_posts/openwebrx-openwrt/Screenshot_20230908_154025.png",
     "source/_posts/openwebrx-openwrt/Screenshot_20230908_160949.png",
-    "source/_posts/openwebrx-openwrt/Screenshot_20230908_160642.png",
     "source/tags/index.md",
     "source/about/index.md",
     "db.json",
