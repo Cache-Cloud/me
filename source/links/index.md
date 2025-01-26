@@ -27,6 +27,30 @@ type: "links"
       </a>
     </div>
     <!-- 可以添加更多链接项 -->
+    <div class="link-item">
+      <a href="https://bellanilla.neocities.org/" target="_blank" class="link-card">
+        <div class="link-icon">
+          <img src="/links/bellanilla/bellanilla.webp" alt="Belladonna" onerror="this.src='/links/bellanilla/bellanilla.webp'">
+        </div>
+        <div class="link-info">
+          <h3>Belladonna</h3>
+          <p>A unique Victorian style website</p>
+        </div>
+      </a>
+    </div>
+    <!-- 空白 
+    <div class="link-item">
+      <a href="https://" target="_blank" class="link-card">
+        <div class="link-icon">
+          <img src="https://" alt="title" onerror="this.src='/links/'">
+        </div>
+        <div class="link-info">
+          <h3>title</h3>
+          <p>info</p>
+        </div>
+      </a>
+    </div>
+    -->
     <!-- 分割 -->
   </div>
 </body>
