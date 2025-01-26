@@ -14,45 +14,85 @@ type: "links"
 </head>
 
 <body>
-  <div class="links-container">
-    <div class="link-item">
-      <a href="https://www.yuanshen.dev/" target="_blank" class="link-card">
-        <div class="link-icon">
-          <img src="https://www.yuanshen.dev/img/nahida.png" alt="LINUX DO" onerror="this.src='/links/YuanRetro/nahida.png'">
-        </div>
-        <div class="link-info">
-          <h3>YuanRetro</h3>
-          <p>一个二刺螈，无线电火腿，交通爱好者和科技菌的小站~</p>
-        </div>
-      </a>
-    </div>
-    <!-- 可以添加更多链接项 -->
-    <div class="link-item">
-      <a href="https://bellanilla.neocities.org/" target="_blank" class="link-card">
-        <div class="link-icon">
-          <img src="/links/bellanilla/bellanilla.webp" alt="Belladonna" onerror="this.src='/links/bellanilla/bellanilla.webp'">
-        </div>
-        <div class="link-info">
-          <h3>Belladonna</h3>
-          <p>A unique Victorian style website</p>
-        </div>
-      </a>
-    </div>
-    <!-- 空白 
-    <div class="link-item">
-      <a href="https://" target="_blank" class="link-card">
-        <div class="link-icon">
-          <img src="https://" alt="title" onerror="this.src='/links/'">
-        </div>
-        <div class="link-info">
-          <h3>title</h3>
-          <p>info</p>
-        </div>
-      </a>
-    </div>
-    -->
-    <!-- 分割 -->
-  </div>
+  <div class="links-container" id="links-container"></div>
+  
+  <script>
+    // 友情链接数据
+    const linksData = [
+      {
+        href: "https://www.yuanshen.dev/",
+        imgSrc: "https://www.yuanshen.dev/img/nahida.png",
+        altText: "LINUX DO",
+        fallbackImgSrc: "/links/YuanRetro/nahida.png",
+        title: "YuanRetro",
+        info: "一个二刺螈，无线电火腿，交通爱好者和科技菌的小站~"
+      },
+      {
+        href: "https://bellanilla.neocities.org/",
+        imgSrc: "/links/bellanilla/bellanilla.webp",
+        altText: "Belladonna",
+        fallbackImgSrc: "/links/bellanilla/bellanilla.webp",
+        title: "Belladonna",
+        info: "A unique Victorian style website"
+      }
+    ];
+
+    // 错误处理函数
+    function handleImageError(imgElement, fallbackSrc) {
+      imgElement.src = fallbackSrc;
+    }
+
+    // 生成链接项的HTML
+    function createLinkItem(link) {
+      const linkItem = document.createElement('div');
+      linkItem.classList.add('link-item');
+
+      const linkCard = document.createElement('a');
+      linkCard.href = link.href;
+      linkCard.target = '_blank';
+      linkCard.classList.add('link-card');
+
+      const linkIcon = document.createElement('div');
+      linkIcon.classList.add('link-icon');
+
+      const img = document.createElement('img');
+      img.src = link.imgSrc;
+      img.alt = link.altText;
+      img.onerror = () => handleImageError(img, link.fallbackImgSrc);
+      img.width = 80;
+      img.height = 80;
+
+      const linkInfo = document.createElement('div');
+      linkInfo.classList.add('link-info');
+
+      const title = document.createElement('h3');
+      title.textContent = link.title;
+
+      const info = document.createElement('p');
+      info.textContent = link.info;
+
+      linkIcon.appendChild(img);
+      linkInfo.appendChild(title);
+      linkInfo.appendChild(info);
+      linkCard.appendChild(linkIcon);
+      linkCard.appendChild(linkInfo);
+      linkItem.appendChild(linkCard);
+
+      return linkItem;
+    }
+
+    // 渲染链接列表
+    function renderLinks() {
+      const container = document.getElementById('links-container');
+      linksData.forEach(link => {
+        const linkItem = createLinkItem(link);
+        container.appendChild(linkItem);
+      });
+    }
+
+    // 页面加载完成后渲染链接列表
+    window.addEventListener('load', renderLinks);
+  </script>
 </body>
 
 </html>
