@@ -35,6 +35,14 @@ type: "links"
         title: "Belladonna",
         info: "A unique Victorian style website"
       }
+      {
+        href: "https://forum.hamcq.cn/",
+        imgSrc: "https://forum.hamcq.cn/assets/avatars/f4HJalvYcIsdJdNZ.png",
+        altText: "HamCQ 社区",
+        fallbackImgSrc: "/links/hamcq/avatars.png",
+        title: "HamCQ 社区",
+        info: "业余无线电爱好者社区"
+      }
     ];
 
     // 错误处理函数
