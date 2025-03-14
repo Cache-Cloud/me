@@ -22,7 +22,7 @@ type: "links"
       {
         href: "https://www.yuanshen.dev/",
         imgSrc: "https://www.yuanshen.dev/img/nahida.png",
-        altText: "LINUX DO",
+        altText: "YuanRetro",
         fallbackImgSrc: "/links/YuanRetro/nahida.png",
         title: "YuanRetro",
         info: "一个二刺螈，无线电火腿，交通爱好者和科技菌的小站~"
