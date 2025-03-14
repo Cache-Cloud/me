@@ -34,7 +34,7 @@ type: "links"
         fallbackImgSrc: "/links/bellanilla/bellanilla.webp",
         title: "Belladonna",
         info: "A unique Victorian style website"
-      }
+      },
       {
         href: "https://forum.hamcq.cn/",
         imgSrc: "https://forum.hamcq.cn/assets/avatars/f4HJalvYcIsdJdNZ.png",
